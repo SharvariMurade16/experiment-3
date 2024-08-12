@@ -80,6 +80,8 @@ int main(){
 ```
 ### Output-
 ![26A94F66-224B-4726-9954-593C6653CBB3](https://github.com/user-attachments/assets/e8bd6880-cdc9-430c-a668-93371297945f)
+
+
 3)-
 ```
 //sharvari murade
