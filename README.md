@@ -1,33 +1,59 @@
 # Experiment-3
-## Aim-
+## Aim -
 To study and implement operators in c++
-## Theory-
+## Theory -
 Operators are essential symbols used to perform various operations on variables and values in programming. They are fundamental for calculations, assignments, decision-making, logical computations, and comparisons. Here’s a breakdown of the key types of operators and their uses:
-### Arithmetic Operators
+
+### Arithmetic Operators :
+
 +: Addition (e.g., a + b)
+
 -: Subtraction (e.g., a - b)
+
 *: Multiplication (e.g., a * b)
+
 /: Division (e.g., a / b)
+
 %: Modulus (remainder, e.g., a % b)
-### Assignment Operators
+
+### Assignment Operators :
+
 =: Assigns value (e.g., x = 5)
+
 +=: Adds and assigns (e.g., x += 5)
+
 -=: Subtracts and assigns (e.g., x -= 5)
+
 *=: Multiplies and assigns (e.g., x *= 5)
+
 /=: Divides and assigns (e.g., x /= 5)
+
 %=: Modulus and assigns (e.g., x %= 5)
-### Logical Operators
+
+### Logical Operators :
+
 &&: AND (true if both are true, e.g., a > 5 && b < 10)
+
 ||: OR (true if at least one is true, e.g., a > 5 || b < 10)
+
 !: NOT (inverts boolean value, e.g., !(a > 5))
+
 ^: XOR (true if exactly one is true)
-### Comparison Operators
+
+### Comparison Operators :
+
 ==: Equal to (e.g., a == b)
+
 !=: Not equal to (e.g., a != b)
+
 >: Greater than (e.g., a > b)
+
 <: Less than (e.g., a < b)
+
 >=: Greater than or equal to (e.g., a >= b)
+
 <=: Less than or equal to (e.g., a <= b)
+
 These operators are used to perform basic calculations, make decisions, and compare values in programming.
 
 ## Code-
@@ -54,8 +80,6 @@ int main(){
     return 0;
 }
 ```
-### Output-
-![Image 12-08-24 at 9 33 PM](https://github.com/user-attachments/assets/06e502d3-8543-43dd-86bd-6d267f7c757f)
 
 2)-
 ```//sharvari murade
@@ -78,9 +102,6 @@ int main(){
     return 0;
 }
 ```
-### Output-
-![26A94F66-224B-4726-9954-593C6653CBB3](https://github.com/user-attachments/assets/e8bd6880-cdc9-430c-a668-93371297945f)
-
 
 3)-
 ```
@@ -114,8 +135,13 @@ int main(){
     return 0;
 }
 ```
-### Output-
 
+### Output -
+### 1.
+![Image 12-08-24 at 9 33 PM](https://github.com/user-attachments/assets/06e502d3-8543-43dd-86bd-6d267f7c757f)
+### 2.
+![26A94F66-224B-4726-9954-593C6653CBB3](https://github.com/user-attachments/assets/e8bd6880-cdc9-430c-a668-93371297945f)
+### 3.
 ![F2B11D94-63EC-4916-97F2-5B1A72542F0D](https://github.com/user-attachments/assets/7b6aa01c-e81b-4662-8c0b-03c96684ad82)
 
 ## Conclusion-
